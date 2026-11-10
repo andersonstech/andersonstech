@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Anderson%20Migloranza&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Engenheiro%20de%20Software%20S%C3%AAnior%20%E2%80%A2%20Arquiteto%20de%20Software&descSize=16&descAlignY=58" width="100%" alt="Anderson Migloranza" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Anderson%20Migloranza&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Tech%20Leader%20%E2%80%A2%20Arquiteto%20de%20Software%20%E2%80%A2%20Engenheiro%20de%20Software%20S%C3%AAnior&descSize=16&descAlignY=58" width="100%" alt="Anderson Migloranza" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-andersondfm-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersondfm)
 [![Site](https://img.shields.io/badge/Site-andersondfm.com.br-2C5364?style=flat-square&logo=googlechrome&logoColor=white)](https://www.andersondfm.com.br)
@@ -11,9 +11,10 @@
 
 ### Sobre mim
 
-Sou engenheiro de software sênior e arquiteto de software na **[nstech](https://github.com/nstechhub)**, em São Paulo.
+Sou **Tech Leader** na **[nstech](https://github.com/nstechhub)**, em São Paulo, com atuação como engenheiro de software sênior e arquiteto de software.
 São mais de **17 anos** construindo e sustentando sistemas de missão crítica: software que não pode parar, precisa escalar e tem que continuar fácil de manter depois de anos em produção.
 
+- 👥 Lidero tecnicamente o time: direção de arquitetura, revisão de código e desenvolvimento das pessoas.
 - 🏗️ Desenho arquiteturas e também escrevo o código: a decisão técnica precisa sobreviver ao dia a dia do time.
 - 🔎 Gosto de problemas difíceis de produção: performance, concorrência, integrações e observabilidade.
 - 🤝 Faço a ponte entre negócio e tecnologia, transformando requisito vago em entrega com escopo claro.
